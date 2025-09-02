@@ -12,7 +12,7 @@ const jsConfig = {
 };
 
 const ignoreConfig = {
-  ignores: ['node_modules/**'],
+  ignores: ['node_modules/**', 'interfaces/**'],
 };
 
 module.exports = [ignoreConfig, jsConfig];
