@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/event-reserve-platform-16379/event_booking_backend"
+}
